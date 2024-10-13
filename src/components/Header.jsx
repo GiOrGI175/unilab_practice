@@ -1,6 +1,6 @@
 import React from 'react';
 import Logo from '/Logo.svg';
-import VndIcon from '/vnd_icon.svg';
+import VndIcon from '/vnd_Icon.svg';
 import Arrow from '/downArrow.svg';
 
 const header = () => {
