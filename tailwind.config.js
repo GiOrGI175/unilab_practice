@@ -8,6 +8,7 @@ export default {
         BtnClr: '#003459',
         WhiteTxt: '#FDFDFD',
         primaryClr: '#002A48',
+        NeutralClr: '#242B33',
       },
       fontFamily: {
         myriad: ['Myriad Pro', 'sans-serif'], // Add your custom font

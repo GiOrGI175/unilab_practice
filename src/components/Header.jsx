@@ -33,17 +33,17 @@ const header = () => {
               </span>
             </button>
             <div className='max-w-[105px] w-full '>
-              <div className='max-w-[105px] w-full h-[44px] flex justify-between items-center'>
+              <button className='max-w-[105px] w-full h-[44px] flex justify-between items-center'>
                 <div className='max-w-[21px] w-full flex '>
                   <img src={VndIcon} alt='vnd_icon' />
                 </div>
-                <button className='max-w-[34px] w-full size-[16px] leading-[24px]  font-myriad font-medium text-primaryClr'>
+                <span className='max-w-[34px] w-full size-[16px] leading-[24px]  font-myriad font-medium text-primaryClr'>
                   VND
-                </button>
+                </span>
                 <div className='max-w-[24px] w-full '>
                   <img src={Arrow} alt='arrow' />
                 </div>
-              </div>
+              </button>
             </div>
           </div>
         </div>
